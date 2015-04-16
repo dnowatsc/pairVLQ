@@ -38,5 +38,5 @@ define tt = t t~
 define WW = w+ w-
 define all =  g a ve vm vt ve~ vm~ vt~ u c t d s b u~ c~ t~ d~ s~ b~ e- mu- ta- e+ mu+ ta+
 define ferm =  ve vm vt ve~ vm~ vt~ u c d s b u~ c~ d~ s~ b~ e- mu- ta- e+ mu+ ta+
-generate p p > j Topo Topo  / h ,  Topo > bb WW WW , Topo > bb WW WW
+generate p p > topo topo / h a z ww , ( topo > tt ferm ferm / z h  ,  tt > ferm ferm bb / z h )
 output tW_tW_x53x53
