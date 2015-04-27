@@ -54,11 +54,11 @@ Block mass
    23 9.118760e+01 # MZ 
    24 8.039900e+01 # MW 
    25 1.250000e+02 # MH 
-  8000001 8.000000e+02 # MT23 
-  8000002 8.000000e+02 # MB13 
-  8000003 8.000000e+02 # MX53 
-  8000004 8.000000e+02 # MY43 
-  8000005 8.000000e+02 # MV83 
+  8000001 4.000000e+02 # MT23 
+  8000002 4.000000e+02 # MB13 
+  8000003 4.000000e+02 # MX53 
+  8000004 4.000000e+02 # MY43 
+  8000005 4.000000e+02 # MV83 
 ## Dependent parameters, given by model restrictions.
 ## Those values should be edited following the 
 ## analytical expression. MG5 ignores those values 
